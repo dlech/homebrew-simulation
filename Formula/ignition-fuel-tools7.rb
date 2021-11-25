@@ -14,7 +14,7 @@ class IgnitionFuelTools7 < Formula
   depends_on "cmake"
   depends_on "ignition-cmake2"
   depends_on "ignition-common4"
-  depends_on "ignition-msgs8"
+  depends_on "ignition-msgs9"
   depends_on "jsoncpp"
   depends_on "libyaml"
   depends_on "libzip"
